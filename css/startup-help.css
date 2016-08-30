@@ -1,0 +1,38 @@
+.version.startup_help /* version checker */
+{
+	color: #000012;
+	background-color: #46D0DF;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 0px;
+	min-height: 0px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 62px;
+	padding-right: 960px;
+	padding-bottom: 722px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

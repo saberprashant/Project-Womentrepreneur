@@ -1,0 +1,282 @@
+.version.index /* version checker */
+{
+	color: #0000FA;
+	background-color: #0C4898;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 609px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 535px;
+	width: 0.01px;
+}
+
+#u208
+{
+	z-index: 23;
+	height: 62px;
+	background-color: #282828;
+	position: fixed;
+	top: -1px;
+}
+
+#u208-bw
+{
+	z-index: 23;
+}
+
+#u587-7
+{
+	z-index: 24;
+	width: 375px;
+	min-height: 45px;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: condiment, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 9px;
+	left: -71px;
+}
+
+#u587-5
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u587
+{
+	color: #FD67C1;
+	line-height: 36px;
+}
+
+#u587-2
+{
+	font-size: 48px;
+	color: #FD67C1;
+	line-height: 58px;
+}
+
+#u587-3
+{
+	font-size: 48px;
+	color: #00BFBF;
+	line-height: 58px;
+}
+
+#u587-4
+{
+	color: #00BFBF;
+	line-height: 36px;
+}
+
+#u1060-4
+{
+	z-index: 43;
+	width: 85px;
+	min-height: 45px;
+	background-color: transparent;
+	color: #00BFBF;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: condiment, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 11px;
+	left: 312px;
+}
+
+#u1460-4
+{
+	z-index: 47;
+	width: 112px;
+	min-height: 45px;
+	background-color: transparent;
+	color: #00BFBF;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: condiment, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 11px;
+	left: 409px;
+}
+
+#u907-4
+{
+	z-index: 31;
+	width: 85px;
+	min-height: 45px;
+	background-color: transparent;
+	color: #00BFBF;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: condiment, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 10px;
+	left: 530px;
+}
+
+#u908-4
+{
+	z-index: 35;
+	width: 124px;
+	min-height: 45px;
+	background-color: transparent;
+	color: #00BFBF;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: condiment, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 11px;
+	left: 650px;
+}
+
+#u910-4
+{
+	z-index: 39;
+	width: 124px;
+	min-height: 45px;
+	background-color: transparent;
+	color: #00BFBF;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: condiment, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 11px;
+	left: 817px;
+}
+
+#u671
+{
+	z-index: 2;
+	min-height: 54px;
+	background-color: #141414;
+	background-color: rgba(0,0,0,0.92);
+	padding-bottom: 20px;
+	-pie-background: rgba(0,0,0,0.92);
+}
+
+#u671_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+}
+
+#u681-4
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	left: 71px;
+}
+
+#u682-4
+{
+	z-index: 7;
+	width: 103px;
+	min-height: 31px;
+	background-color: transparent;
+	color: #35D3FF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 22px;
+	left: 488px;
+}
+
+#u1461-4
+{
+	z-index: 51;
+	width: 103px;
+	min-height: 31px;
+	background-color: transparent;
+	color: #35D3FF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 22px;
+	left: 598px;
+}
+
+#u684-4
+{
+	z-index: 11;
+	width: 110px;
+	min-height: 31px;
+	background-color: transparent;
+	color: #35D3FF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	left: 707px;
+}
+
+#u685-4
+{
+	z-index: 15;
+	width: 86px;
+	min-height: 31px;
+	background-color: transparent;
+	color: #35D3FF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 22px;
+	left: 826px;
+}
+
+#u687-4
+{
+	z-index: 19;
+	width: 96px;
+	min-height: 31px;
+	background-color: transparent;
+	color: #35D3FF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 931px;
+}
+
+#u671-bw
+{
+	z-index: 2;
+	min-height: 54px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
