@@ -1,0 +1,35 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Womentrepreneur.com" resolutions="1x" timestamp="1457580017464">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="workshops.css" crc="342343021" ref="workshops"/>
+    <file name="index.css" crc="4195109016" ref="index"/>
+    <file name="about.css" crc="3940994003" ref="about"/>
+    <file name="startup-help.css" crc="306630879" ref="startup-help"/>
+    <file name="stories.css" crc="306630879" ref="stories"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:startup-help:workshops:stories:about"/>
+    <file name="museutils.js" crc="183364071" ref="index:startup-help:workshops:stories:about"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:about"/>
+    <file name="pie.js" crc="3827607177" ref="index:about"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:startup-help:workshops:stories:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="about"/>
+  </folder>
+  <folder name="images">
+    <file name="u681-4.png" crc="4252810584" ref="index"/>
+    <file name="tttttttttttt.jpg" crc="4231321234" ref="about"/>
+    <file name="bbbbbb-u1480-fr.png" crc="361925706" ref="about"/>
+    <file name="quotefancy-10057-3840x2160.jpg" crc="4166063418" ref="about"/>
+    <file name="yyyyyyyyyyyyy.jpg" crc="4269820443" ref="about"/>
+    <file name="u1442-6.png" crc="111155325" ref="about"/>
+    <file name="bbbbbb-u1450-fr.png" crc="82565186" ref="about"/>
+    <file name="u1440-14.png" crc="4189055722" ref="about"/>
+    <file name="u1457-7.png" crc="487079947" ref="about"/>
+    <file name="u1453-4.png" crc="4252810584" ref="about"/>
+  </folder>
+  <file name="index.html" crc="184627073" seo="true" mt="1457578983424" redirect="true"/>
+  <file name="startup-help.html" crc="197060248" seo="true" mt="1457560890146" redirect="false"/>
+  <file name="workshops.html" crc="3761348293" seo="true" mt="1457560873518" redirect="false"/>
+  <file name="stories.html" crc="336419626" seo="true" mt="1457560855841" redirect="false"/>
+  <file name="about.html" crc="4271921001" seo="true" mt="1457579975051" redirect="true"/>
+</manifest>

@@ -1,0 +1,80 @@
+*{
+margin:0;
+padding:0;
+}
+body{
+background:url('company images/bg4.jpg');
+background-size:cover;
+background-attachment:fixed;
+}
+.ws_box{
+height:280px;
+width:220px;
+display:inline-block;
+margin:40px;
+background:blue;
+background-size:cover;
+background-repeat:no-repeat;
+opacity:50%;
+font-size:21px;
+text-align:justify;
+cursor:pointer;
+border-radius:15% 15% 0 0;
+}
+.first{
+position:absolute;
+top:20%;
+left:25%;
+background:url('company images/agra.jpg');
+background-size:cover;
+background-repeat:no-repeat;
+opacity:50%;
+
+font-size:21px;
+text-align:justify;
+color:white;}
+
+.ws_box:hover{
+transform:scale(1.1);
+}
+
+.second{
+position:absolute;
+top:20%;
+left:55%;
+background:url('company images/mumbai.jpg');
+background-size:cover;
+background-repeat:no-repeat;
+color:white;
+}
+
+
+.third{
+position:absolute;
+top:70%;
+left:25%;
+background:url('company images/delhi.jpg');
+background-size:cover;
+background-repeat:no-repeat;
+color:white;
+}
+
+.fourth{
+position:absolute;
+top:70%;
+left:55%;
+background:url('company images/chandigarh.jpg');
+background-size:cover;
+background-repeat:no-repeat;
+color:white;
+}
+
+p{
+width:220px;
+float:right;
+background:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,1));
+padding-top:10px;
+position:absolute;
+margin:0;
+bottom:0;
+}
